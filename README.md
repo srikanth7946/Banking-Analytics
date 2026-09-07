@@ -144,9 +144,9 @@ Business Insights
 
 ---
 
-## Dashboard Features
+# Dashboard Features
 
-### Bank Loan Dashboard
+## Bank Loan Dashboard
 * **Total Loan Amount:** Tracks the overall value of loans issued.
 * **Average Interest Rate:** Monitors the average interest rate across loans.
 * **Principal Recovered:** Shows the total principal amount recovered.
@@ -163,7 +163,7 @@ Business Insights
 
 ---
 
-## Project Structure
+# Project Structure
 
 The project is organized into the following sections:
 
@@ -208,7 +208,7 @@ Contains screenshots of the dashboards created using Excel, Power BI, and Tablea
 
 ---
 
-## Key Insights
+# Key Insights
 
 ### Excel
 * **Bank Loan Dashboard**  
@@ -233,10 +233,10 @@ Contains screenshots of the dashboards created using Excel, Power BI, and Tablea
 
 ---
 
-## Author
+# Author
 Srikanth Penumala
 
-## License
+# License
 This project is licensed under the MIT License.
 
 
