@@ -141,7 +141,7 @@ Dashboard Development
 Interactive Visualization
        ↓
 Business Insights
-
+```
 ---
 
 # Dashboard Features
