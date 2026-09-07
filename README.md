@@ -221,10 +221,10 @@ Contains screenshots of the dashboards created using Excel, Power BI, and Tablea
 ## Power BI
 
 ###Bank Loan Dashboard  
-![Power bi-BDB](Powerbi-BDB.png)
+![Power bi-BDB](Power bi-BDB.png)
 
 ### Credit-Debit Dashboard 
-![Power bi-CDB](Powerbi-CDB.png)
+![Power bi-CDB](Power bi-CDB.png)
 
 ## Tableau
 ###Bank Loan Dashboard  
