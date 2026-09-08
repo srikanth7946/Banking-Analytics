@@ -161,6 +161,22 @@ Business Insights
 - Loan Status Analysis: Tracks Active, Closed, Default, and other loan statuses.
 - Loan Term Analysis: Compares loans based on their repayment terms.
 
+## Credit & Debit Dashboard Features
+
+- Total Credit: Displays the total amount credited to customer accounts.
+- Total Debit: Displays the total amount debited from customer accounts.
+- Net Transaction: Shows the difference between total credit and total debit transactions.
+- Credit-to-Debit Ratio: Compares the total credit amount with the total debit amount.
+- Monthly Transaction Analysis: Tracks credit and debit transaction activity across different months.
+- Tansaction Purpose Analysis: Analyzes transactions based on their purpose, such as salary deposits, utility payments, online shopping, grocery shopping, refunds, and client payments.
+- Transaction Method Analysis: Compares transaction activity across Debit Card, Credit Card, and Bank Transfer.
+- Branch-wise Transaction Analysis: Compares transaction activity across different bank branches.
+- Bank-wise Analysis: Allows comparison of transaction activity across different banks.
+- Credit vs Debit Comparison: Provides a clear comparison between incoming and outgoing transaction amounts.
+- Interactive Filters: Enables users to filter the dashboard based on bank and transaction date.
+- Transaction Trend Analysis: Helps identify changes and patterns in transaction activity over time.
+- Interactive Data Visualizations: Provides charts and KPIs for quick and detailed analysis of banking transactions.
+
 ---
 
 # Project Structure
@@ -212,7 +228,7 @@ Contains screenshots of the dashboards created using Excel, Power BI, and Tablea
 
 ## Excel
 
-###Bank Loan Dashboard 
+### Bank Loan Dashboard 
 ![Excel-BDB](Excel-BDB.png)
 
 ###Credit-Debit Dashboard  
@@ -220,27 +236,23 @@ Contains screenshots of the dashboards created using Excel, Power BI, and Tablea
 
 ## Power BI
 
-###Bank Loan Dashboard  
+### Bank Loan Dashboard  
 ![PowerBi-BDB](PowerBi-BDB.png)
 
 ### Credit-Debit Dashboard 
 ![PowerBi-CDB](PowerBi-CDB.png)
 
 ## Tableau
-###Bank Loan Dashboard  
+### Bank Loan Dashboard  
 ![Tableau-BDB](Tableau-BDB.png)
 
-###Credit-Debit Dashboard  
+### Credit-Debit Dashboard  
 ![Tableau-CDB](Tableau-CDB.png)
 
 ---
 
 # Author
-## Srikanth Penumula
-
-# License
-## This project is licensed under the MIT License.
-
+### Srikanth Penumula
 
 ---
 
