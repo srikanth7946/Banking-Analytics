@@ -255,4 +255,7 @@ Contains screenshots of the dashboards created using Excel, Power BI, and Tablea
 ### Srikanth Penumula
 
 ---
+# License
+### This Project licensed under MIT license
 
+---
